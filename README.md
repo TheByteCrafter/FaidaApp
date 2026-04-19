@@ -58,7 +58,7 @@ Installation
 
 Clone the repository:
 
-git clone [https://github.com/your-username/faida-app.git](https://github.com/your-username/faida-app.git)
+git clone [https://github.com/TheByteCrafter/faida-app.git](https://github.com/TheByteCrafter/FaidaApp).git)
 
 
 Open in Android Studio:
